@@ -4,3 +4,6 @@ three-particle
 ==============
 
 three.js - particle
+
+[base here](https://github.com/nomilous/three)
+
