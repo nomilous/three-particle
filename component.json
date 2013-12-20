@@ -1,0 +1,17 @@
+{
+  "name": "three-particle",
+  "repo": "nomilous/three-particle",
+  "description": "three.js - particle",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "nomilous/three": "*",
+    "nomilous/three-object": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
